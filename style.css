@@ -123,3 +123,7 @@ hr
 {
 margin:0;
 }
+td
+{
+ border: 1px solid black;
+}
