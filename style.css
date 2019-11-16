@@ -1,6 +1,6 @@
 body
 {
-
+margin: 0;
 }
 
 .main
@@ -11,6 +11,7 @@ width: 85%;
 .weather
 {
 width: 15%;
+vertical-align: top;
 }
 
 .transport
@@ -86,4 +87,21 @@ margin: 0;
 {
 font-size: x-small;
 margin: 0;
+}
+
+pre
+{
+font-size: x-small;
+}
+
+td
+{
+vertical-align: top;
+}
+
+iframe
+{
+border: 0;
+margin: 0;
+padding: 0;
 }

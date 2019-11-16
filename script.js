@@ -1,6 +1,8 @@
 var id=function(e){return document.getElementById(e);}
 
 
+
+
 function change()
 {
 	if (id("table1").style.display=="block")
@@ -29,5 +31,5 @@ function change()
 	
 }
 
-//setInterval(change, 10000);
+setInterval(change, 10000);
 
