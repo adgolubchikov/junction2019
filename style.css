@@ -54,3 +54,19 @@ text-align: right;
 {
 width: 198px;
 }
+
+.green /* go now */
+{
+color: #00ff00;
+}
+
+.grey /* no chance */
+{
+color: #666666;
+}
+
+.red /* you may try */
+{
+color: #ff0000;
+}
+

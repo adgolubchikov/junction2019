@@ -29,4 +29,4 @@ function change()
 	
 }
 
-setInterval(change, 5000);
+//setInterval(change, 5000);
