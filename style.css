@@ -70,3 +70,20 @@ color: #666666;
 color: #ff0000;
 }
 
+.news_title
+{
+font-size: smaller;
+margin: 0;
+}
+
+.news_date
+{
+font-size: x-small;
+margin: 0;
+}
+
+.news_content
+{
+font-size: x-small;
+margin: 0;
+}
