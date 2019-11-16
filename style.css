@@ -5,24 +5,24 @@ body
 
 .main
 {
-
+width: 85%;
 }
 
 .weather
 {
-
+width: 15%;
 }
 
 .transport
 {
-
+width: 15%;
 }
 
 .table
 {
-
+width: 100%;
 }
-
+/*
 #table1
 {
 display: block;
@@ -36,5 +36,21 @@ display: none;
 #table3
 {
 display: none;
+}*/
+
+.route
+{
+width: 50%;
+text-align: left;
 }
 
+.time
+{
+width: 50%;
+text-align: right;
+}
+
+.bus
+{
+width: 198px;
+}
