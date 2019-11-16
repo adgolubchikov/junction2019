@@ -110,4 +110,16 @@ padding: 0;
 .signage
 {
 text-align: right;
+font-size: smaller;
+font-style: italic;
+/*margin: -5px;*/
+margin-top: -10px;
+margin-bottom: 0px;
+
+
+}
+
+hr
+{
+margin:0;
 }
